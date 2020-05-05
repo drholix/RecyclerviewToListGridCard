@@ -1,0 +1,2 @@
+rootProject.name='RecyclerviewToListGridCard'
+include ':app'
